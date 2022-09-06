@@ -10,7 +10,7 @@ This is a Dockerfile to build a debian based container image running nginx and p
 | latest | master Branch |1.17.2 | 7.3.8 | buster |
 
 
-## How to use this repository
+## **How to use this repository**
 The build is automatically triggered by a git push to your feature/[branch]. *it happens everytime*
 
 ### First clone the repository to your workstation
@@ -72,4 +72,4 @@ Default web root:
 ```
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
-**congratulations!**
+Congratulations!
